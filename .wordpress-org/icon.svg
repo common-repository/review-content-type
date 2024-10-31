@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E83C24;}
+	.st1{fill:#E82C0C;}
+	.st2{fill:#FFFBD8;}
+	.st3{fill:#EDE9CE;}
+</style>
+<g id="background">
+	<g id="XMLID_8_">
+		<path id="XMLID_6_" class="st0" d="M128,0C57.3,0,0,57.3,0,128s57.3,128,128,128"/>
+		<path id="XMLID_4_" class="st1" d="M128,256c70.7,0,128-57.3,128-128S198.7,0,128,0"/>
+	</g>
+</g>
+<g id="star">
+	<g id="XMLID_7_">
+		<path id="XMLID_3_" class="st2" d="M128,170.7L85.3,192l8-47.1L64,112l42.7-5.3L128,64"/>
+		<path id="XMLID_5_" class="st3" d="M128,64l21.3,42.7L192,112l-29.3,32.9l8,47.1L128,170.7"/>
+	</g>
+</g>
+</svg>
